@@ -1,8 +1,11 @@
 # 21261 selected matlab visualization
+<img align="right" src="images/exam_1_problem1.gif" width="250">
+
 Selected matlab codes to give visualizations of some ODEs in 21261, Introduction to Ordinary Differential Equations. 
- 
+
 I hope this repo contains most MATLAB commands a typical undergraduate ODE course will need to use for visualization. This should help students to understand the behaviors of ODE at a glance and give a head start with Matlab.
- 
+
+
  
 
 # Week1 discussion: 
