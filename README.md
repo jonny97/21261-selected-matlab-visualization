@@ -1,7 +1,7 @@
 # 21261 selected matlab visualization
 Selected matlab codes to give visualizations of some ODEs in 21261, Introduction to Ordinary Differential Equations. 
  
-I hope this repo contains most MATLAB commands a typical undergraduate ODE course will need to use for visualization and help students to understand the behaviors of ODE at a glance.
+I hope this repo contains most MATLAB commands a typical undergraduate ODE course will need to use for visualization. This should help students to understand the behaviors of ODE at a glance and give a head start with Matlab.
  
  
 
@@ -34,11 +34,11 @@ Visualize solutions of the system: x'=-y; y'=x
 # Homework6 Plot: 
 Plot  the  first  few  terms  of  the  Picard  iteration  and the exact solution for  the  following  initial  value problems, as a visual illustration that Picard Iteration works. 
 <br>
-(a) x′= x + 2,   x(0) = 2.
+(a) x'= x + 2,   x(0) = 2.
 <br>
-(b) x′= x^(4/3), x(0) = 1.
+(b) x'= x^(4/3), x(0) = 1.
 <br>
-(c) x′= cosx,    x(0) = 0.
+(c) x'= cosx,    x(0) = 0.
 
 <p align="center">
 <img src="images/21261_hw6_Problem_2a.png" width="300">
@@ -56,6 +56,15 @@ x' = 0*x + 1*x';x''= -k*x - b*x' + cos(omega*t)
 <p align="center">
 <img src="images/week7_1_all_initial_conditions_behave_similarly_in_the_long_run.png" width="450">
 <img src="images/week7_2_Solution_approaches_periodic_quasi_periodic_depending_on_omega.png" width="450">
+</p>
+
+# Homework 8 P4
+Sketch phase portrait for the following system:
+<p align=center>
+x'=x^2−2xy;y'=y^2−2xy.
+</p align=center>
+<p align="center">
+<img src="images/hw8_sol_p4.png" width="450">
 </p>
 
 # Midterm exam problem 1 illustration
